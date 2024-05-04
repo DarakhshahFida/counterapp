@@ -24,7 +24,7 @@ a {
 
 nav {
   background: #F6F5F2;
-  box-shadow: 0 5px 15px #634b01;
+  box-shadow: 0 5px 15px #2882cc;
 }
 
 .menu a {
@@ -87,13 +87,13 @@ div {
   display: flex;
   flex-direction: column;
   width: 42rem;
-  border: 1px solid #eee;
+  border: 1px solid #9ab8e6;
   padding: 1rem;
-  background-color: #634b01;
-  color: #fff;
+  background-color: #E1AFD1;
+  color: #4b66b1;
   text-align: center;
   border-radius: 5px;
-  box-shadow: 0 5px 15px #634b01;
+  box-shadow: 0 5px 15px #612158;
 }
 
 .counter-div>* {
@@ -118,20 +118,20 @@ div {
 }
 
 button.subtract {
-  background-color: #fff;
+  background-color: #C4E4FF;
 }
 
 button.reset {
-  background-color: #fff;
+  background-color: #C4E4FF;
   color: #1e8cfa;
 }
 
 button.add {
-  background-color: #fff;
+  background-color: #C4E4FF;
 }
 
 .uphand-styles {
-  color: green;
+  color: rgb(15, 77, 15);
 }
 
 .downhand-styles {
