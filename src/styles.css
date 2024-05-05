@@ -25,6 +25,7 @@ a {
 nav {
   background: #F6F5F2;
   box-shadow: 0 5px 15px #2882cc;
+  background-image: url("./image.jpeg");
 }
 
 .menu a {
@@ -84,6 +85,7 @@ div {
 }
 
 .counter-div {
+  background-image: url("./image.jpeg");
   display: flex;
   flex-direction: column;
   width: 42rem;
@@ -118,16 +120,16 @@ div {
 }
 
 button.subtract {
-  background-color: #C4E4FF;
+  background-color: #EAD8C0;
 }
 
 button.reset {
-  background-color: #C4E4FF;
+  background-color: #EAD8C0;
   color: #1e8cfa;
 }
 
 button.add {
-  background-color: #C4E4FF;
+  background-color: #EAD8C0;
 }
 
 .uphand-styles {
